@@ -12,6 +12,6 @@ This repository contains the exact smart contract used in production, written in
 
 The contract is designed as a deterministic state machine, where every transition is enforced by:
 
-strict rules
-time-based constraints
-economic incentives
+- strict rules
+- time-based constraints
+- economic incentives
