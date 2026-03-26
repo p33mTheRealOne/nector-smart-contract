@@ -15,3 +15,12 @@ The contract is designed as a deterministic state machine, where every transitio
 - strict rules
 - time-based constraints
 - economic incentives
+
+# Core Features
+
+- Non-custodial escrow (no trusted third party)
+- Built-in timeout system (shipping, review, dispute)
+- Dispute resolution with economic penalties
+- Bond-based incentive system
+- Keeper-compatible (anyone can trigger timeouts)
+- Fully open-source & verifiable
