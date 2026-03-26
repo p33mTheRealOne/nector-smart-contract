@@ -7,8 +7,8 @@ Nector is a chat-native, non-custodial escrow system designed to enable safe tra
 
 This repository contains the exact smart contract used in production, written in:
 
-Rust (on-chain program)
-TypeScript (clients, scripts, automation)
+- Rust (on-chain program)
+- TypeScript (clients, scripts, automation)
 
 The contract is designed as a deterministic state machine, where every transition is enforced by:
 
