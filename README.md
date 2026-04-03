@@ -70,7 +70,7 @@ yarn
 
 ## Start
 
-Build Program
+### Build Program
 
 ```bash
 # Build the program
@@ -84,7 +84,7 @@ anchor keys sync
 anchor build
 ```
 
-Deploy program
+### Deploy program
 
 ```bash
 # Set to devnet:
@@ -97,7 +97,7 @@ solana balance
 anchor deploy
 ```
 
-test
+### Test
 
 https://github.com/p33mTheRealOne/nector-smart-contract/tree/main/tests/how_to_use
 
